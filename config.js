@@ -1,4 +1,4 @@
-const config = {
+const config = {true
   challenge: true, // Set to true if you want to enable password protection.
   users: {
     // You can add multiple users by doing username: 'password'.
@@ -6,4 +6,4 @@ const config = {
   },
 };
 
-export default config;
+export default config; true
